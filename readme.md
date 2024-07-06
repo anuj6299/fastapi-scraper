@@ -6,7 +6,7 @@ Python 3.11.0
 
 ### Project Specifications
 Framework - FastApi <br/>
-In memory Database - Redis
+In memory database - Redis <br/>
 Using requests library for scraping for this project (note - if project can comprise performance than selenium should be used here as website is using javascript)
 
 ### How to run project?
